@@ -53,8 +53,3 @@ The model predicts low prices better than high prices.
 2.  Place dataset in: ../data/time_series_60min_singleindex.csv
 
 3.  Run the script
-
-## Notes
-
-This is a simple ML experiment showing a full pipeline from data to
-results.
